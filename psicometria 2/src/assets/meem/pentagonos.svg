@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 170" width="300" height="170" role="img" aria-label="Dois pentágonos em interseção">
+  <g fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <polygon points="30,95 95,25 175,55 165,140 70,150"/>
+    <polygon points="130,80 205,20 275,75 245,150 150,145"/>
+  </g>
+</svg>

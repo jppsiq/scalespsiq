@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 300" width="620" height="300"><text x="310" y="26" font-family="Helvetica,Arial,sans-serif" fill="#111" font-size="17" font-weight="700" text-anchor="middle">Comportamento de preensão</text><g transform="translate(118,52) scale(0.95)">
+  <g fill="#fff" stroke="#111" stroke-width="3.2" stroke-linejoin="round">
+    <rect x="30" y="14" width="16" height="58" rx="8"/>
+    <rect x="50" y="6" width="16" height="66" rx="8"/>
+    <rect x="70" y="12" width="16" height="60" rx="8"/>
+    <rect x="90" y="28" width="15" height="46" rx="7.5"/>
+    <rect x="28" y="60" width="78" height="62" rx="18"/>
+    <rect x="-2" y="64" width="40" height="17" rx="8.5" transform="rotate(-22 18 72)"/>
+  </g>
+</g><g transform="translate(290,52) scale(0.95)">
+  <g fill="#fff" stroke="#111" stroke-width="3.2" stroke-linejoin="round">
+    <rect x="30" y="14" width="16" height="58" rx="8"/>
+    <rect x="50" y="6" width="16" height="66" rx="8"/>
+    <rect x="70" y="12" width="16" height="60" rx="8"/>
+    <rect x="90" y="28" width="15" height="46" rx="7.5"/>
+    <rect x="28" y="60" width="78" height="62" rx="18"/>
+    <rect x="-2" y="64" width="40" height="17" rx="8.5" transform="rotate(-22 18 72)"/>
+  </g>
+</g><path d="M185 232 v-34 m-9 11 l9 -11 l9 11" fill="none" stroke="#111" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M357 232 v-34 m-9 11 l9 -11 l9 11" fill="none" stroke="#111" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/><text x="310" y="262" font-family="Helvetica,Arial,sans-serif" fill="#111" font-size="15" font-weight="400" text-anchor="middle">As mãos do paciente ficam com as palmas para cima sobre os joelhos.</text><text x="310" y="284" font-family="Helvetica,Arial,sans-serif" fill="#111" font-size="15" font-weight="400" text-anchor="middle">O examinador aproxima as próprias mãos e toca as palmas do paciente, sem dizer nada.</text></svg>
